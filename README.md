@@ -18,8 +18,5 @@ styles
 ├── organisms
 │       ├── _gallery.scss
 │       └── _header.scss
-├── utilities
-│       ├── _typography.scss 
-│       └── _error.scss
 └── index.scss
 ```
