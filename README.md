@@ -1,7 +1,7 @@
 # curso diseno ux
 
-1- Dejar de pensar en puntos de la web (mobil, tablet. pc), ers mejor en pensar en reparto de ojetos, 
-2- Design System nos permite aportar consistencia a nuestra aplicación -Design system de Audi -Design system de Gitlab -Design system de Liferay
+- Dejar de pensar en puntos de la web (mobil, tablet. pc), ers mejor en pensar en reparto de ojetos, 
+- Design System nos permite aportar consistencia a nuestra aplicación -Design system de Audi -Design system de Gitlab -Design system de Liferay
 
 ```
 styles
