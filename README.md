@@ -22,9 +22,10 @@ styles
 └── index.scss
 ```
  - medias px rem y em en las web
- -medidas de fuentes
+ - medidas de fuentes
 
-##figma
--https://www.figma.com/community/plugin/1151113258187986741/Codely-Structurer
--interface
--Frames
+## figma
+
+- https://www.figma.com/community/plugin/1151113258187986741/Codely-Structurer
+- interface
+- Frames
