@@ -30,3 +30,9 @@ styles
 - https://www.figma.com/community/plugin/1151113258187986741/Codely-Structurer
 - interface
 - Frames
+- Objetos
+- Imagenes
+  - formatos
+  - tamanaso
+  - visualizacion
+- vectores / svg
