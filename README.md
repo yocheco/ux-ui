@@ -23,6 +23,7 @@ styles
 ```
  - medias px rem y em en las web
  - medidas de fuentes
+ - <img src="https://miro.medium.com/max/720/1*8Sh88Pbeb3VXd4wzyihrZQ.png">
 
 ## figma
 
