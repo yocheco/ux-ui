@@ -47,3 +47,6 @@ styles
   - https://www.figma.com/community/plugin/1097438299470908389
 - Auto Layout
 - Componentes
+- Máscaras
+- Efectos, Modos de Fusión y Exportación
+
