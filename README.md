@@ -38,4 +38,7 @@ styles
   - https://www.figma.com/community/plugin/738454987945972471/Unsplash
   - https://www.figma.com/community/plugin/997643096679511216/Icons8-Background-Remover
 - vectores / svg
-  - https://www.figma.com/community/plugin/735098390272716381/Iconify 
+  - https://www.figma.com/community/plugin/735098390272716381/Iconify
+- Textos
+  - https://www.figma.com/community/plugin/1097438299470908389
+
