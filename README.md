@@ -45,4 +45,5 @@ styles
   - https://www.figma.com/community/plugin/735098390272716381/Iconify
 - Textos
   - https://www.figma.com/community/plugin/1097438299470908389
-- Auto Layout  
+- Auto Layout
+- Componentes
