@@ -28,9 +28,13 @@ styles
 ## figma
 
 - https://www.figma.com/community/plugin/1151113258187986741/Codely-Structurer
-- interface
+- Ventana
 - Frames
+  - grids
+- Reglas
 - Objetos
+  - constraints
+  - alineaciones
 - Imagenes
   - formatos
   - tamanaso
@@ -41,6 +45,4 @@ styles
   - https://www.figma.com/community/plugin/735098390272716381/Iconify
 - Textos
   - https://www.figma.com/community/plugin/1097438299470908389
-- Reglas
-- Alineaciones
-- Constraints
+- Auto Layout  
