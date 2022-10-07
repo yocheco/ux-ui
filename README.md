@@ -50,5 +50,9 @@ styles
 - Máscaras
 - Efectos, Modos de Fusión y Exportación
 - ESTILOS
+  - crear nuevos estilos
+  - exportar estilos
+  - exportar componentes
+  - crear un Desing system   
 
 
