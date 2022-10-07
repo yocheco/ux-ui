@@ -49,4 +49,6 @@ styles
 - Componentes
 - Máscaras
 - Efectos, Modos de Fusión y Exportación
+- ESTILOS
+
 
