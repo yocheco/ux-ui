@@ -11,6 +11,7 @@ styles
 ├── colores
 ├── tipografia y tamanos
 ├── margenes y padings
+├── Objetos (contenedores)
 ├── atoms
 │       ├── _button.scss
 │       ├── _image.scss
@@ -55,6 +56,13 @@ styles
   - crear nuevos estilos
   - exportar estilos
   - exportar componentes
-  - crear un Desing system   
+  - crear un Desing system
+ 
+
+
+
+1) conocer los elementos del DOM para disenadores ux
+2) Arquitectura de Css para ux
+3) crear  Design System = cuando un pinto  crea su paleta de colores
 
 
