@@ -1,6 +1,6 @@
 # curso diseno ux
 
-- Dejar de pensar en puntos de la web (mobil, tablet. pc), ers mejor en pensar en reparto de ojetos, 
+- Dejar de pensar en puntos de la web (móvil, tablet. pc), ers mejor en pensar en reparto de objetos, 
 - Design System nos permite aportar consistencia a nuestra aplicación 
   - https://www.figma.com/community/file/961581638760900307
   - https://www.audi.com/ci/en/guides/user-interface/introduction.html#
